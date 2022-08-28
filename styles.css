@@ -1,0 +1,16 @@
+#gamecontainer{
+    text-align: center;
+}
+#game-board{
+    border: 2px solid;
+}
+#score{
+    font-size: 4rem;
+}
+.resetBtn{
+    border: 2px solid salmon;
+    border-radius: 25px;
+    width: 100px;
+    height: 50px;
+    cursor: pointer;
+}
